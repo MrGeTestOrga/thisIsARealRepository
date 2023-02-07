@@ -1,0 +1,11 @@
+
+# Configuration:
+# OWNER: *insert the GitHub username of the user who will be notified about related events*
+# 
+OWNER: FlrnDml
+
+# Directories:
+# As soon as a Pull Request is created Mr. Guacamole will check the affected directories and add labels accordingly
+# each line represents one directory, add up to 3 labels
+
+apps/team-s/mr-guacamole/mr-guacamole-services/     @Domain:MR.GUACAMOLE
