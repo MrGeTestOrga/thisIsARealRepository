@@ -9,5 +9,5 @@ OWNER: ThisIsARealGithubUser
 # each line represents one directory, add up to 3 labels
 
 apps/team-s/mr-guacamole/mr-guacamole-services/     @Domain:MR.GUACAMOLE @Domain:test
-.github/                                            @Domain:.github1
+.github/                                            @Domain:.github
 
