@@ -2,7 +2,7 @@
 # Configuration:
 # OWNER: *insert the GitHub username of the user who will be notified about related events*
 # 
-OWNER: FlrnDml
+OWNER: ThisIsARealGithubUser
 
 # Directories:
 # As soon as a Pull Request is created Mr. Guacamole will check the affected directories and add labels accordingly
