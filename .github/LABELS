@@ -1,13 +1,60 @@
-
 # Configuration:
-# OWNER: *insert the GitHub username of the user who will be notified about related events*
+# OWNER: *GitHub username of a Mr. Guacamole user who will be notified about related events*
 # 
-OWNER: ThisIsARealGithubUser
+OWNER: FlrnDml
 
 # Directories:
-# As soon as a Pull Request is created Mr. Guacamole will check the affected directories and add labels accordingly
+# As soon as a pull request is created Mr. Guacamole will check the affected directories and add labels accordingly
 # each line represents one directory, add up to 3 labels
 
-apps/team-s/mr-guacamole/mr-guacamole-services/     @Domain:MR.GUACAMOLE @Domain:test
-.github/                                            @Domain:.github
+apps/documentation                  @domain: DOCUMENTATION
+libs/documentation                  @domain: DOCUMENTATION
 
+# Team-I
+apps/team-i/customer-account        @domain:CUSTOMER-ACCOUNT
+libs/team-i/customer-account        @domain:CUSTOMER-ACCOUNT
+
+apps/team-i/customer-consent        @domain:CUSTOMER-CONSENT
+libs/team-i/customer-consent        @domain:CUSTOMER-CONSENT
+
+apps/team-i/customer-login          @domain:CUSTOMER-LOGIN
+libs/team-i/customer-login          @domain:CUSTOMER-LOGIN
+
+apps/team-i/customer-profile        @domain:CUSTOMER-PROFILE
+libs/team-i/customer-profile        @domain:CUSTOMER-PROFILE
+
+
+# Team-M
+apps/team-m/customer-products       @domain: CUSTOMER-PRODUCTS
+libs/team-m/customer-products       @domain: CUSTOMER-PRODUCTS
+
+apps/team-m/my-tool-shed            @domain:TOOL-SHED
+libs/team-m/my-tool-shed            @domain:TOOL-SHED
+
+apps/team-m/product-lifecycle-information   @domain: PLIS
+libs/team-m/product-lifecycle-information   @domain: PLIS
+
+
+# Team-N
+apps/team-n/notifications           domain:NOTIFICATIONS
+libs/team-n/notifications           domain:NOTIFICATIONS
+
+
+# Team-S
+apps/team-s/mr-guacamole            @domain:MR.GUACAMOLE
+libs/team-s/mr-guacamole            @domain:MR.GUACAMOLE
+
+apps/team-s/fleet-management        @domain:FLEET
+libs/team-s/fleet-management        @domain:FLEET
+
+apps/team-s/legal                   @domain:LEGAL
+libs/team-s/legal                   @domain:LEGAL
+
+apps/team-s/organization-enrollment @domain:ORGANIZATION
+libs/team-s/organization-enrollment @domain:ORGANIZATION
+
+apps/team-s/digital-product-sales   @domain:DIGITAL-PRODUCT-SALES
+libs/team-s/digital-product-sales   @domain:DIGITAL-PRODUCT-SALES
+
+apps/team-s/ui-user-settings        @domain:UI-USER-SETTINGS
+libs/team-s/ui-user-settings        @domain:UI-USER-SETTINGS
