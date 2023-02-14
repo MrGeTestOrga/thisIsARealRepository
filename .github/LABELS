@@ -56,5 +56,5 @@ libs/team-s/organization-enrollment @domain:ORGANIZATION
 apps/team-s/digital-product-sales   @domain:DIGITAL-PRODUCT-SALES
 libs/team-s/digital-product-sales   @domain:DIGITAL-PRODUCT-SALES
 
-apps/team-s/ui-user-settings        @domain:UI-USER-SETTINGS
+apps/team-s/ui-user-settings        @domain:UI-USER-SETTINGS  @domain:UI-USER-SETTINGS  @domain:UI-USER-SETTINGS
 libs/team-s/ui-user-settings        @domain:UI-USER-SETTINGS
