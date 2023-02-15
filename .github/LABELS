@@ -10,3 +10,4 @@ OWNER: ThisIsARealGithubUser
 .github/LABELS                @domain:LABELS
 .github                       @Domain:.github
 .gitignore                    @bug
+test                         @bug123
