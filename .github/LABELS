@@ -6,5 +6,6 @@ OWNER: ThisIsARealGithubUser
 # As soon as a pull request is created Mr. Guacamole will check the affected directories and add labels accordingly
 # each line represents one directory, add up to 3 labels
 
-.guthub/LABLES                @domain:LABELS
-
+.github/LABLES                @domain:LABELS
+.github                       @domain:.github
+.github                       @domain:dasGibtEsGarnicht
