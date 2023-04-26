@@ -6,6 +6,9 @@
 
 DIRS:
   test
+  .github
 
 USERS:
+    ThisIsAnotherUser
     ThisIsDefinitelyARealGitHubUser
+    
