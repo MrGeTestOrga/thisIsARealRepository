@@ -1,0 +1,11 @@
+# In order to provide prominent notifications for our Phoenix champions (or anyone else) Mr. G is sending special messages to each user for each directory mentioned in this file:
+
+# Add Mr. Guacamole users by adding their github account name
+# Do not add a DIR or USER twice
+# Make sure each DIR is the relative path in the /web-phoenix folder
+
+DIRS:
+  test
+
+USERS:
+    ThisIsDefinitelyARealGitHubUser
