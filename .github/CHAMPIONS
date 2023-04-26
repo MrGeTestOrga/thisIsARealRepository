@@ -5,7 +5,7 @@
 # Make sure each DIR is the relative path in the /web-phoenix folder
 
 DIRS:
-  test
+  test.js
   .github
 
 USERS:
