@@ -1,2 +1,3 @@
 let test = 1;
-console.warn(test);
+let test = 2;
+console.log(test);
