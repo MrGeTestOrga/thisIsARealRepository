@@ -1,2 +1,1 @@
-const test = 1;
-console.log(1);
+console.log("everything is shit");
