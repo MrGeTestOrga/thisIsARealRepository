@@ -1,2 +1,1 @@
-console.log("HI");
-console.log("this is a test");
+console.log("12345")
