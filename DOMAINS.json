@@ -3,7 +3,7 @@
     'team-i': {
       domains: [
         {
-          domain: 'customer-account',
+          domain: 'test',
           apps: [
             {
               'app-identifier': 'customer-account-services',
@@ -11,7 +11,7 @@
                 active: true,
               },
               labels: ['CUSTOMER-ACCOUNT-SERVICES'],
-              directories: ['apps/team-i/customer-account/customer-account-services', 'libs/team-i/backend'],
+              directories: ['apps/team-i/customer-account/customer-account-services', 'libs/team-i/backend', '/'],
             },
             {
               'app-identifier': 'customer-account-services1',
