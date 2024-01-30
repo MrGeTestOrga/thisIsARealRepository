@@ -1,0 +1,38 @@
+[
+  {
+    'team-i': {
+      domains: [
+        {
+          domain: 'customer-account',
+          apps: [
+            {
+              'app-identifier': 'customer-account-services',
+              'release-notes': {
+                active: true,
+              },
+              labels: ['CUSTOMER-ACCOUNT-SERVICES'],
+              directories: ['apps/team-i/customer-account/customer-account-services', 'libs/team-i/backend'],
+            },
+            {
+              'app-identifier': 'customer-account-services1',
+              'release-notes': {
+                active: false,
+              },
+              labels: ['CUSTOMER-ACCOUNT-SERVICES'],
+              directories: ['apps/team-i/customer-account/customer-account-services', 'libs/team-i/backend'],
+            },
+            {
+              'app-identifier': 'customer-account-webapp',
+              'release-notes': {
+                active: true,
+                'slack-channel': 'team-i-releases',
+              },
+              labels: ['CUSTOMER-ACCOUNT-WEBAPP'],
+              directories: ['apps/team-i/customer-account/customer-account-webapp'],
+            },
+          ],
+        },
+      ],
+    },
+  },
+]
