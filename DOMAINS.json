@@ -11,7 +11,7 @@
                 "active": true
               },
               "labels": ["CUSTOMER-ACCOUNT-SERVICES"],
-              "directories": ["apps/team-i/customer-account/customer-account-services", "libs/team-i/backend"]
+              "directories": ["apps/team-i/customer-account/customer-account-services", "libs/team-i/backend", "awndaiown"]
             },
             {
               "app-identifier": "test",
