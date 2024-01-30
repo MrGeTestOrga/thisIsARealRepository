@@ -17,7 +17,7 @@
               "app-identifier": "test",
               "release-notes": {
                 "active": true,
-                "slack-channel": "team-i-releases"
+                "slack-channel": "slackapp"
               },
               "labels": ["CUSTOMER-ACCOUNT-WEBAPP"],
               "directories": [
