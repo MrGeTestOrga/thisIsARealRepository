@@ -26,7 +26,7 @@
                 "apps/team-i/customer-account/customer-account-webapp-vrt",
                 "libs/team-i/customer-account/frontend",
                 "/",
-                "DOMAINS.json",
+                "DOMAINS.json"
               ]
             }
           ]
