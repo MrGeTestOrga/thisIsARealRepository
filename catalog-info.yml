@@ -7,6 +7,6 @@ metadata:
 releaseNotes: {
     slackChannel: team-x-releases
     directories:
-      - /apps/mr-guacamole-services/test
+      - '/apps/mr-guacamole-services/test'
     stages:
       - int
