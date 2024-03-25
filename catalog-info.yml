@@ -10,4 +10,3 @@ releaseNotes: {
       - /apps/mr-guacamole-services/test
     stages:
       - int
-  };
