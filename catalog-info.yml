@@ -4,9 +4,9 @@ metadata:
   type: service
   description: Serves Phoenix as its most loyal supporter
   
-releaseNotes: {
-    slackChannel: team-x-releases
-    directories:
-      - '/apps/mr-guacamole-services/test'
-    stages:
-      - int
+releaseNotes:
+  slackChannel: 'team-x-releases'
+  directories:
+    - '/apps/mr-guacamole-services/test'
+  stages:
+    - int
