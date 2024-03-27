@@ -5,8 +5,8 @@ metadata:
   description: Serves Phoenix as its most loyal supporter
   
 releaseNotes:
-  slackChannel: 'team-x-releases'
+  slackChannel: 'com-phoenix-releases'
   directories:
-    - '/apps/mr-guacamole-services/test'
+    - 'test.js'
   stages:
     - int
