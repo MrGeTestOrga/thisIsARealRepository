@@ -14,4 +14,7 @@ releaseNotes:
 labels:
   CUSTOMER-ACCOUNT-SERVICES: 'apps/team-i/customer-account/customer-account-services'
   CUSTOMER-ACCOUNT-SERVICES: 'libs/team-i/backend'
+  CUSTOMER-ACCOUNT-SERVICES: '*'
+  CUSTOMER-ACCOUNT-SERVICES: 'test.js'
+  
   
