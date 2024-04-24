@@ -12,7 +12,7 @@ releaseNotes:
     - int
 
 labels:
-  CUSTOMER-ACCOUNT-SERVICES: 
+  'domain: CUSTOMER-ACCOUNT-SERVICES': 
     - 'apps/team-i/customer-account/customer-account-services'
     - 'libs/team-i/backend'
     - '*'
