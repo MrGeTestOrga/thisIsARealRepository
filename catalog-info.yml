@@ -8,8 +8,9 @@ releaseNotes:
   slackChannel: 'com-phoenix-releases'
   directories:
     - 'test.js'
-  stages:
-    - int
+  mail:
+    int: 
+      - 'florian.demel@hotmail.de'
 
 labels:
   'domain: CUSTOMER-ACCOUNT-SERVICES': 
